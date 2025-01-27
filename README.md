@@ -13,7 +13,7 @@ To find efficiency, we found the total number of anomalies in the batteries usin
 
 𝐑𝐞𝐬𝐮𝐥𝐭:
 
-Out of the 6 batteries in the testing set, 4 exhibited anomalous behavior. Remarkably, all four models accurately identified these anomalies.
+Out of the 6 batteries in the testing set,4 exhibited anomalous behavior. Remarkably, all four models accurately identified these anomalies.
 While calculating the total number of anomalies in batteries, 𝐋𝐒𝐓𝐌 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 model turned out to be the most efficient one as it detected the highest number of anomalies.
 
 𝐎𝐮𝐭𝐩𝐮𝐭𝐬:
